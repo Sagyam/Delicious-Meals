@@ -1,10 +1,7 @@
 # [Delicious Meals](https://delicious-meals.netlify.app)
-<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' 
-width=48>
-<img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' 
-width=36>
-<img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' 
-width=40>
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
 
 Responsive landing page for restaurant build with HTML CSS & JavaScript and ScrollReveal JS library.
 
